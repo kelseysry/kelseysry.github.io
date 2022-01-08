@@ -122,5 +122,10 @@ body {
 
 .name-title {
   margin-top: 20px;
+}
 
+.kelsey-details {
+  font-size: 15px;
+  text-align: center;
+  padding: 0 45px;
 }
