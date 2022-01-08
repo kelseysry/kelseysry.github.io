@@ -104,5 +104,23 @@ body {
   height: 500px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
+  /* background: cornflowerblue; */
+  flex-direction: column;
+}
+
+.title {
+  font-size: 15px;
+  text-align: center;
+}
+
+.details {
+  font-size: 15px;
+  text-align: center;
+  padding: 0 25px;
+}
+
+.name-title {
+  margin-top: 20px;
+
 }
