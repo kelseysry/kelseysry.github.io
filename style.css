@@ -96,7 +96,7 @@ body {
 .about-me-container {
   border: 4px solid whitesmoke;
   position: absolute;
-  color: white;
+  color: whitesmoke;
   left: -290px;
   top: -260px;
   width: 500px;
@@ -121,11 +121,22 @@ body {
 }
 
 .name-title {
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 .kelsey-details {
   font-size: 15px;
   text-align: center;
   padding: 0 45px;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.about-link-container {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
 }
