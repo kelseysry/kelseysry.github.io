@@ -2,7 +2,7 @@
 
 * {
   font-family: 'Roboto Mono', monospace;
-  color: whitesmoke;
+  /* color: whitesmoke; */
 }
 
 html {
@@ -221,4 +221,12 @@ a:hover {
   top: -250px;
   left: -470px;
   color: whitesmoke;
+}
+
+.copy {
+  font-size: 15px;
+  color: whitesmoke;
+  position: absolute;
+  top: 900px;
+  left: 260px;
 }
