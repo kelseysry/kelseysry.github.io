@@ -2,6 +2,7 @@
 
 * {
   font-family: 'Roboto Mono', monospace;
+  color: whitesmoke;
 }
 
 html {
@@ -167,7 +168,7 @@ ul {
   color: whitesmoke;
   width: 300px;
   position: absolute;
-  left: -500px;
+  left: -480px;
   top:-300px
 }
 
@@ -188,5 +189,16 @@ ul {
 .project-title {
   position: absolute;
   top: -350px;
-  left: -500px;
+  left: -470px;
+}
+
+.project-links {
+  font-size: 15px;
+  position: relative;
+  top: -300px;
+  right: -10px;
+}
+
+.project-space a {
+  padding-right: 30px;
 }
