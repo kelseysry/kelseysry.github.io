@@ -151,3 +151,42 @@ a:hover {
   color: whitesmoke;
   padding: 30px 0px;
 }
+
+.project-title {
+  color: whitesmoke;
+}
+
+.gif {
+  width: 700px;
+  position: absolute;
+  right: -150px;
+}
+
+ul {
+  font-size: 15px;
+  color: whitesmoke;
+  width: 300px;
+  position: absolute;
+  left: -500px;
+  top:-300px
+}
+
+
+.vertical-line-gif {
+  border-left: 1px solid white;
+  height: 830px;
+  padding: 0px 5px;
+  position: absolute;
+  right: 600px;
+  padding-right: 20px;
+}
+
+.Nav2Container {
+  position: relative;
+}
+
+.project-title {
+  position: absolute;
+  top: -350px;
+  left: -500px;
+}
