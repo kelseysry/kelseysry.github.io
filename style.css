@@ -58,12 +58,12 @@ body {
   justify-content: center;
   align-items: center;
   height: 800px;
-  width: 100px;
+  width: 120px;
   position: fixed;
   left: 50px;
   top: 200px;
   z-index: 2;
-  padding: 30px 0px
+  padding: 30px 0px;
 
 }
 
@@ -125,7 +125,7 @@ body {
 }
 
 .kelsey-details {
-  font-size: 15px;
+  font-size: 18px;
   text-align: center;
   padding: 0 45px;
 }
@@ -139,4 +139,15 @@ a {
   display: flex;
   justify-content: space-around;
   padding-top: 20px;
+}
+
+a:hover {
+  color: #d7a041;
+  transition: all 0.5s ease-out;
+
+}
+
+.projects {
+  color: whitesmoke;
+  padding: 30px 0px;
 }
