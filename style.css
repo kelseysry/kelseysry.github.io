@@ -163,7 +163,7 @@ a:hover {
   right: -150px;
 }
 
-ul {
+.oksign {
   font-size: 15px;
   color: whitesmoke;
   width: 300px;
@@ -205,4 +205,13 @@ ul {
 
 .divider {
   color: whitesmoke;
+}
+
+.oney {
+  font-size: 15px;
+  color: whitesmoke;
+  width: 300px;
+  position: absolute;
+  left: -480px;
+  top:-200px
 }
